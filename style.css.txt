@@ -1,0 +1,39 @@
+<style>
+ body {
+   background-color: #F2D7EE;
+   }
+ th {
+   font-family: glee finder;
+   }
+  td {
+  font-family: glee finder;
+  text-align: center;
+  }
+  
+ li {
+  font-family: glee finder;
+  }
+ h1 {
+  font-family: almeira;
+  background-color: #D3BCC0;
+  font-color: #A5668B;
+  text-align: center;
+  }
+ 
+ h2 {
+  font-family: almeira;
+   background-color: #D3BCC0;
+  font-color: #A5668B;
+  text-align: center;
+  }
+  img {
+  width: 90 px;
+  heigth: 100 px;
+  }
+  p {
+  font-family: glee finder;
+  }
+  option {
+  font-family: glee finder;
+  }
+ </style>
